@@ -1,0 +1,19 @@
+{
+  "name": "demotesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "test",
+    "demo",
+    "jest"
+  ],
+  "author": "tineojf",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
